@@ -5,7 +5,7 @@ body {
 .header {
   padding-top: 10px;
   background-color: #2F4F4F;
-  height: 20%;
+  height: auto;
   line-height: 70px;
   color: white;
   font-family: sans-serif;
