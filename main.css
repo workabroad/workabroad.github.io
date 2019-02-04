@@ -88,3 +88,7 @@ p {
   color: green;
   font-size: 20px;
 }
+
+.owl-dots .active span{
+  background-color: #4169E1 !important;
+}
